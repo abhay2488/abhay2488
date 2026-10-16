@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Web Development (Full-Stack)
 - ⚡ Fun fact: My second name is Karma !
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9bWCU6VPEM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhay_singh.19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/areyouabhay)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/S6nH65KMPu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/areyouabhay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/areyouabhay)
 
 ## 💻 Tech Stack:
 
@@ -18,9 +18,9 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-<a href="https://github.com/abhayjsx">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhayjsx&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhayjsx&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+<a href="https://github.com/abhay2488">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhay2488&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhay2488&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
 </a>
 </p>
  <br>
