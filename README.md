@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abhayjsx&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/abhayjsx/)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abhayjsx&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/abhay2488/)
 
 <h1 align="center">Hi there, I'm Abhay <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
